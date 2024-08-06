@@ -480,7 +480,7 @@ span{
     width: 50px;
 }
 .services {
-    background: var(--second-bg-color);
+    background: var(--bg-color);
     color: black;
 }
 
