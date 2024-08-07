@@ -27,7 +27,7 @@ menuIcon.onclick = () => {
 
 document.getElementById('myForm').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the form from submitting the traditional way
-    alert('Information updated'); // Show the pop-up message
+    alert('Successfully Submited your's details & Message); // Show the pop-up message
     // Optionally, you can perform form submission here via AJAX or other methods
 });
 
