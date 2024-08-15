@@ -730,4 +730,12 @@ span{
     .services-container{
         grid-template-columns: repeat(1,1fr);
     }
+    .education .heading
+{
+    font-size: 7.2rem;
+}
+.experience .heading
+{
+    font-size: 7.7rem;
+}
 }
